@@ -1,0 +1,5 @@
+- 👋 Hi, I’m - @OliverMakesGames
+- 👀 I’m interested in - Making several C# monogame games
+- 🌱 I’m currently learning - How to run an indie game dev business
+- 💞️ I’m looking to collaborate on - Indie games projects
+- 📫 How to reach me - OliverMakesGames@gmail.com
