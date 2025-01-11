@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliverMakesGames
 - 👀 I’m interested in video game development and marketing.
 - 🌱 I’m currently learning a little bit of everything, all of the time.
-- 💞️ I’m looking to lead indie games development.
+- 💞️ I love being an indie game dev.
 - 📫 How to reach me - OliverMakesGames@gmail.com
